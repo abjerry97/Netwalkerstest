@@ -255,6 +255,10 @@ ul.footer-li li+li:before {
 
 
 }
+.nav-dropdown li a:hover {
+    background: rgba(196, 196, 196, 1);
+
+}
 .nav-dropdown {
     display: none;
 }
